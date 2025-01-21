@@ -1,0 +1,17 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "name": "Introduction to Next.js",
+      "comment": "Next.js is a React framework for building fast and user-friendly web applications. lorem orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel nisl non sapien fermentum tincidunt. Ut hendrerit, elit vel consectetur sagittis, neque justo aliquet risus, ut viverra nisl velit ",
+      "date": "2025-01-12",
+      "user_email": "user1@example.com"
+    },
+    {
+      "id": "01b7",
+      "name": "2332",
+      "comment": "33333",
+      "date": "2025-01-19"
+    }
+  ]
+}

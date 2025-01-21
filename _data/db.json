@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Introduction to Next.js",
+      "body": "Next.js is a React framework for building fast and user-friendly web applications. lorem orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel nisl non sapien fermentum tincidunt. Ut hendrerit, elit vel consectetur sagittis, neque justo aliquet risus, ut viverra nisl velit ",
+      "date": "2025-01-12",
+      "user_email": "user1@example.com"
+    },
+    {
+      "id": "2",
+      "title": "Understanding Tailwind CSS",
+      "body": "Tailwind CSS provides utility-first classes for rapid UI development. CSS allows developers to style borders with solid, dashed, or dotted lines, adjust widths, apply colors, and create rounded corners for enhancing the visual appeal of web elements effectively",
+      "date": "2025-01-11",
+      "user_email": "user2@example.com"
+    },
+    {
+      "id": "3",
+      "title": "Working with APIs in Next.js",
+      "body": "Learn how to use Next.js API routes to build scalable APIs for your applications.",
+      "date": "2025-01-10",
+      "user_email": "user3@example.com"
+    },
+    {
+      "id": "e634",
+      "title": "12412312",
+      "body": "41243124",
+      "date": "2025-01-17"
+    },
+    {
+      "id": "01b8",
+      "title": "2131321312",
+      "body": "3213213213",
+      "date": "2025-01-28"
+    }
+  ]
+}
